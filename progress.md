@@ -1,8 +1,11 @@
+# GSoD 2020 Progress
+
 | SYMBOLS | MEANINGS |
 |:-------:|:--------:|
 | :heavy_check_mark: | Completed |
 | :construction: | Under Progress |
 | :warning: | Needs review |
+| :red_circle: | Not Yet Started |
 
 
 
@@ -25,7 +28,7 @@
 | | | |
 | **_WEEK 3 (September 28, 2020 - October 4, 2020)_** |    |    |   |
 | About Programmer's Guide | :heavy_check_mark: |
-| Ch-1: Programming Performance Co-Pilot | :construction: |
+| Ch-1: Programming Performance Co-Pilot | :heavy_check_mark: |
 | Ch-2: Writing a PMDA | :construction: 
-| Ch-3: PMAPI--The Performance Metrics API | :construction: |
-| Ch-4: Instrumenting Applications | :construction: |
+| Ch-3: PMAPI--The Performance Metrics API | :red_circle: |
+| Ch-4: Instrumenting Applications | :red_circle: |
