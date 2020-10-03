@@ -27,7 +27,7 @@
 | Ch-8: Customizing and Extending PCP Services | :heavy_check_mark: |
 | | | |
 | **_WEEK 3 (September 28, 2020 - October 4, 2020)_** |    |    |   |
-| About Programmer's Guide | :heavy_check_mark: | [PR #1076](https://github.com/performancecopilot/pcp/pull/1076) | :warning: |
+| About Programmer's Guide | :heavy_check_mark: | [PR #1076](https://github.com/performancecopilot/pcp/pull/1076) | **Merged** |
 | Ch-1: Programming Performance Co-Pilot | :heavy_check_mark: |
 | Ch-2: Writing a PMDA | :heavy_check_mark: 
 | Ch-3: PMAPI--The Performance Metrics API | :heavy_check_mark: |
