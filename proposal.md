@@ -1,5 +1,9 @@
 # GSoD 2020 Proposal (Performance Co-Pilot)
 
+##### Table of Contents  
+[Proposal](#proposal)  
+
+
 **CONTACT INFORMATION**  
 Name: Arzoo  
 Github handle: arzoo14  
