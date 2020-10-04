@@ -39,7 +39,7 @@
 | Blogging of the last four weeks | | |
 | | | |
 | **_WEEK 5 (October 12, 2020 - October 18, 2020)_** |    |    |   |
-|Conversion of Scalable Time Series index |
+| Conversion of Scalable Time Series index |
 | 1. GET /series/query|
 | 2. GET /series/values |
 | 3. GET /series/descs |
@@ -49,8 +49,8 @@
 | 7. GET /series/instances |
 | 8. GET /series/load |
 | | | |
-| **_WEEK 6 (October 19, 2020 - October 25, 2020)_** |    |    |   |
-Conversion of PMAPI Host Services index |
+| **_WEEK 6 (October 19, 2020 - October 25, 2020)_** |    |    |   
+| Conversion of PMAPI Host Services index |
 | 1. GET /pmapi/context |
 | 2. GET /pmapi/metric |
 | 3. GET /pmapi/fetch |
@@ -67,10 +67,10 @@ Conversion of PMAPI Host Services index |
 | Blogging of the last three weeks |
 | | | |
 | **_WEEK 8 (November 2, 2020 - November 8, 2020 )_** |    |    |   |
-| Conversion of the pbench guides. |
+| Conversion of the pbench guides |
 | | | |
 | **_WEEK 9 (November 9, 2020 - November 15, 2020 )_** |    |    |   |
-| Continued with the conversion of the pbench guides.
+| Continued with the conversion of the pbench guides |
 | Hosting of the pbench guides |
 | Blogging of the last two weeks |
 | | | |
@@ -83,6 +83,7 @@ Conversion of PMAPI Host Services index |
 |Improvement of all the diagrams |
 | Final blogging of the last two weeks |
 | Checking(changing) of the codebase as per coding standards |
+| | | |
 | **_WEEK 12 (November 30, 2020 - December 5, 2020 )_** |    |    |   |
 | The final submission |
 | Submission of the project reports (final work products) |
