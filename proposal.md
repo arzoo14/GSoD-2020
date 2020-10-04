@@ -1,7 +1,8 @@
 # GSoD 2020 Proposal (Performance Co-Pilot)
 
-##### Table of Contents  
-[Proposal](#proposal)  
+### Table of Contents  
+[Proposal](#proposal)
+[Timeline](#timeline)
 
 
 **CONTACT INFORMATION**  
@@ -184,7 +185,7 @@ Contributions to the Performance Co-Pilot Organization:
  
 **Merged [PR #53]** : Improvements in documentation  
 
-## TIMELINE AND DELIVERABLES  
+## TIMELINE
  
 ### COMMUNITY BONDING PERIOD [ August 17 - September 13, 2020 ]  
 
