@@ -1,7 +1,6 @@
 # GSoD 2020 Proposal (Performance Co-Pilot)
 
-### Table of Contents  
-[Proposal](#proposal)
+**Quick Links:** [Proposal](#proposal),
 [Timeline](#timeline)
 
 
@@ -36,7 +35,7 @@ I will let the organization overcome these limitations during this GSoD with the
 
 Read the Docs (RTD) simplifies software documentation by automating building, versioning, and hosting our docs for us. It is a hosting platform for Sphinx-generated documentation. It takes the power of Sphinx and adds version control, full-text search, and other useful features. It pulls down code and doc files from Git, Mercurial, or Subversion, then builds and hosts our documentation. We’ll use GitHub in our project as it’s the most commonly used system for accessing code.  
 
-To get started, we’ll create a Read the Docs account, and link the GitHub account. Then we’ll select the GitHub repository we’d like to build documentation for, at which point the magic happens.  
+To get started, we’ll create a Read the Docs account, and link the GitHub account. Then we’ll select the GitHub repository we’d like to build documentation for, at which point the magic happens.   
 
 Read the Docs will:  
 * Clone our repository.
