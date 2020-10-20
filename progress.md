@@ -34,32 +34,32 @@
 | Ch-4: Instrumenting Applications | :heavy_check_mark: |
 | | | |
 | **_WEEK 4 (October 5, 2020 - October 11, 2020)_** |    |    |   |
-| Hosting of PCP books | | |
-| Landing page of the REST API documentation |
+| Hosting of PCP books | :heavy_check_mark: | [PCP Books](https://pcp.readthedocs.io/en/latest/) | |
+| Landing page of the REST API documentation | :heavy_check_mark: | [PR #1117](https://github.com/performancecopilot/pcp/pull/1117) | :warning:|
 | Blogging of the last four weeks | | |
 | | | |
 | **_WEEK 5 (October 12, 2020 - October 18, 2020)_** |    |    |   |
-| Conversion of Scalable Time Series index |
-| 1. GET /series/query|
-| 2. GET /series/values |
-| 3. GET /series/descs |
-| 4. GET /series/labels |
-| 5. GET /series/metrics |
-| 6. GET /series/sources |
-| 7. GET /series/instances |
-| 8. GET /series/load |
+| Conversion of Scalable Time Series index | :heavy_check_mark: | [PR #1117](https://github.com/performancecopilot/pcp/pull/1117) | :warning:|
+| 1. GET /series/query| :heavy_check_mark: | | |
+| 2. GET /series/values | :heavy_check_mark: | | |
+| 3. GET /series/descs | :heavy_check_mark: | | |
+| 4. GET /series/labels | :heavy_check_mark: | | |
+| 5. GET /series/metrics | :heavy_check_mark: | | |
+| 6. GET /series/sources | :heavy_check_mark: | | |
+| 7. GET /series/instances | :heavy_check_mark: | | |
+| 8. GET /series/load | :heavy_check_mark: | | |
 | | | |
 | **_WEEK 6 (October 19, 2020 - October 25, 2020)_** |    |    |   
-| Conversion of PMAPI Host Services index |
-| 1. GET /pmapi/context |
-| 2. GET /pmapi/metric |
-| 3. GET /pmapi/fetch |
-| 4. GET /pmapi/children |
-| 5. GET /pmapi/indom |
-| 6. GET /pmapi/profile |
-| 7. GET /pmapi/store |
-| 8. GET /pmapi/derive |
-| 9. GET /pmapi/metrics |
+| Conversion of PMAPI Host Services index | :construction: | | |
+| 1. GET /pmapi/context | :construction: | | |
+| 2. GET /pmapi/metric | :construction: | | |
+| 3. GET /pmapi/fetch | :construction: | | |
+| 4. GET /pmapi/children | :construction: | | |
+| 5. GET /pmapi/indom | :construction: | | |
+| 6. GET /pmapi/profile | :red_circle: |
+| 7. GET /pmapi/store | :red_circle: |
+| 8. GET /pmapi/derive | :red_circle: |
+| 9. GET /pmapi/metrics | :red_circle: |
 | | | |
 | **_WEEK 7 (October 26, 2020 - November 1, 2020)_** |    |    |   |
 | Leftovers (if any) is covered |
