@@ -74,14 +74,14 @@
 | Blogging of the last two weeks |
 | | | |
 | **_WEEK 10 (November 16 - November 22)_** |    |    |   |
-| Implementation of the search functionality |
+| Implementation of the search functionality | :heavy_check_mark: | | |
 | Bugs/Issues (if any) is solved | :heavy_check_mark: | [#1139](https://github.com/performancecopilot/pcp/pull/1139) | **Merged** |
-| Commencement of stretch goals | :heavy_check_mark: | [#1142](https://github.com/performancecopilot/pcp/pull/1142) | :warning: |
+| Commencement of stretch goals | :heavy_check_mark: | [#1142](https://github.com/performancecopilot/pcp/pull/1142) | **Merged** |
 | | | |
 | **_WEEK 11 (November 23 - November 30)_** |    |    |   |
 |Improvement of all the diagrams |
 | Final blogging of the last two weeks |
-| Checking(changing) of the codebase as per coding standards |
+| Checking(changing) of the codebase as per coding standards | :heavy_check_mark: | [#1147](https://github.com/performancecopilot/pcp/pull/1147) | **Merged** |
 | | | |
 | **_WEEK 12 (November 30 - December 5)_** |    |    |   |
 | The final submission |
