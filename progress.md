@@ -1,4 +1,4 @@
-# GSoD 2020 Progress
+# GSoD 2020 Timeline & Deliverables
 
 | SYMBOLS | MEANINGS |
 |:-------:|:--------:|
