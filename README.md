@@ -13,3 +13,5 @@ The GSoD journey to me is like Harry potter's journey to Hogwarts. A journey ful
 
 
  I would like to thanks my mentors - [Nathan Scott](https://github.com/natoscott), [Andreas Gerstmayr](https://github.com/andreasgerstmayr) and [Peter Portante](https://github.com/portante) for their constant support throughout the journey to mark it as 'Complete'.
+
+ Quicklinks: [Project](https://developers.google.com/season-of-docs/docs/participants/project-pcp-arzoo14), [Proposal](https://github.com/arzoo14/Google-Season-of-Docs-2020/blob/master/proposal.md), [Timeline & Deliverables](https://github.com/arzoo14/Google-Season-of-Docs-2020/blob/master/timeline_deliverables.md), [Final Report](), Github Repos - [PCP](https://github.com/performancecopilot/pcp), [pbench](https://github.com/distributed-system-analysis/pbench)
