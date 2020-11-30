@@ -61,7 +61,7 @@
 | 9. GET /pmapi/metrics | :heavy_check_mark: | | |
 | | | |
 | **_WEEK 7 (October 26 - November 1)_** |    |    |   |
-| Leftovers (if any) is covered |
+| Leftovers (if any) is covered | None | | |
 | Hosting of REST API documentation | :heavy_check_mark: | [API](https://pcp.readthedocs.io/en/latest/api/) | |
 | Blogging of the last three weeks |
 | | | |
@@ -79,9 +79,10 @@
 | Commencement of stretch goals | :heavy_check_mark: | [#1142](https://github.com/performancecopilot/pcp/pull/1142) | **Merged** |
 | | | |
 | **_WEEK 11 (November 23 - November 30)_** |    |    |   |
-|Improvement of all the diagrams |
+| Improvement of all the diagrams | :heavy_check_mark: | [#1154](https://github.com/performancecopilot/pcp/pull/1154) | **Merged** |
+| **Additional Stretch Goal** - Adds a new chapter 'pmseries(1)' in the UAG book| :heavy_check_mark: | [#1161](https://github.com/performancecopilot/pcp/pull/1161) | **Merged** |
+| Checking (changing) of the codebase as per coding standards | :heavy_check_mark: | [#1147](https://github.com/performancecopilot/pcp/pull/1147) , [#1162](https://github.com/performancecopilot/pcp/pull/1162) | **Merged** |
 | Final blogging of the last two weeks |
-| Checking(changing) of the codebase as per coding standards | :heavy_check_mark: | [#1147](https://github.com/performancecopilot/pcp/pull/1147) | **Merged** |
 | | | |
 | **_WEEK 12 (November 30 - December 5)_** |    |    |   |
 | The final submission |
