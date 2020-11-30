@@ -1,3 +1,19 @@
+**Table of contents**
+
+* [Introduction](#introduction)
+* [What is Performance Co-Pilot?](#what-is-performance-co-pilot)
+* [Abstract of the project](#abstract-of-the-project)
+* [GSoD 2020](#gsod-2020)
+   * [Deliverable 1 ](#deliverable-1)
+   * [Deliverable 2 ](#deliverable-2)
+   * [Deliverable 3 ](#deliverable-3)
+   * [Deliverable 4 ](#deliverable-4)
+   * [Deliverable 5 ](#deliverable-5)
+* [Post GSoD 2020](#post-gsod-2020)
+* [Additional Information and Resources](#additional-information-and-resources)
+* [EndNote](#endnote)
+* [Acknowledgements](#acknowledgements)
+
 ### Introduction
 
 As GSoD 2020 has come to an end, this is my project report (final work product) wrapping up all the work done during this journey.
@@ -8,7 +24,7 @@ Performance Co-Pilot (PCP) provides a framework and services to support system-l
 
 PCP is a feature-rich, mature, extensible, cross-platform toolkit supporting both live and retrospective analysis. The distributed PCP architecture makes it especially useful for those seeking centralized monitoring of distributed processing.
 
-### Project's Abstract
+### Abstract of the project
 
 A community website plays an essential role in an open-source organization because it spreads the idea of offerings that the community provides, their precious contributions, their skills, their documentations, their tutorials, etc. So, my project will aim to increase the usability and easiness for all the open-source contributors by transferring and updating the book project areas content, i.e., docbook content, REST API documentation and pbench markdown content to reStructuredText format such that it can be hosted on the modern, community readthedocs.io site. This project will also benefit the community contributors by allowing them to change and extend this content more easily. As well as, as a stretch goal, the diagrams in the documentation will be improved to give them a more professional look.
 
