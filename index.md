@@ -20,13 +20,13 @@ As a part of GSoD 2020, my project had following deliverables:
   2. Converting REST API documentation from manpage to developer-friendly format, i.e., reStructuredText format and hosting it on readthedocs site.
   3. Converting pbench MarkDown content to reStructuredText format and hosting it on readthedocs site.
   4. Stretch goals would be to improve the diagrams present in the documentation.
-  5. After the first deliverable, an additional Stretch Goal is added - Addtion of **pmseries(1)** chapter in the PCP User's and Administrator's Guide book.
+  5. After the first deliverable, an additional Stretch Goal is added - Addition of **pmseries(1)** chapter in the PCP User's and Administrator's Guide book.
   
 As a part of GSoD 2020, I completed all the deliverables on time. Details of my work are as follows:
 
 #### Deliverable 1
 
-During this phase, I kickstarted with setting up the basic sphinx configuration for the PCP books documentation. After that, I started with the conversion of the PCP User's and Administrator's Guide (UAG) and Programmer's Guide (PG) books from docbook to reStructured Text (rst) format. On completion of both the books, I cross-referenced the headings to each other and hyperlinked the tags. In the end, after the removal of all the errors and the review from the mentors, they were hosted on modern, community readthedocs site.
+During this phase, I kick-started with setting up the basic sphinx configuration for the PCP books documentation. After that, I started with the conversion of the PCP User's and Administrator's Guide (UAG) and Programmer's Guide (PG) books from docbook to reStructured Text (rst) format. On completion of both the books, I cross-referenced the headings to each other and hyperlinked the tags. In the end, after the removal of all the errors and the review from the mentors, they were hosted on modern, community readthedocs site.
 
 So, during Phase 1, I completed the following deliverables: 
  
@@ -51,12 +51,12 @@ So, during Phase 2, I completed the following deliverables:
  
 #### Deliverable 3
 
-During this phase, I started with setting up the basic sphinx configuration for the pbench guides. After that, I converted pbench guide from the MarkDown (md) format to rst format. In this phase, I learnt many new sphinx extensions. One of them being - sphinx-panels, which I used in this project to give dropdown card effect to the headings. 
+During this phase, I started with setting up the basic sphinx configuration for the Pbench guides. After that, I converted pbench guide from the MarkDown (md) format to rst format. In this phase, I learnt many new sphinx extensions. One of them being - sphinx-panels, which I used in this project to give dropdown card effect to the headings. 
  The code associated with this deliverable is still under review. The mentor has shown his satisfaction with the work and commented with 'Looks Good'. The readthedocs site needed the hosting of this documentation is already setup. Once, the PR will be merged, the documentation can be found [here](https://pbench.readthedocs.io/en/latest/). 
  
  So, during Phase 3, I completed the following deliverable: 
  
-  * Converted pbench guide from md to rst format. 
+  * Converted Pbench guide from md to rst format. 
   
 Code - [PR #1963](https://github.com/distributed-system-analysis/pbench/pull/1963)
 
@@ -80,7 +80,7 @@ Final Deliverable - Diagrams present in [PCP Books](https://pcp.readthedocs.io/e
 
 #### Deliverable 5
 
-After the deliverable 1, I added an another stretch goal in my timeline. The stretch goal was - Addtion of **pmseries(1)** chapter in the PCP User's and Administrator's Guide book. So, I completed this stretch goal in the last week of my GSoD period.
+After the deliverable 1, I added an another stretch goal in my timeline. The stretch goal was - Addition of **pmseries(1)** chapter in the PCP User's and Administrator's Guide book. So, I completed this stretch goal in the last week of my GSoD period. And after the completion of all the deliverables, I further improved the documentations by resolving the various bugs. 
  
  So, during Phase 5, I completed the following deliverables: 
  
@@ -90,12 +90,32 @@ After the deliverable 1, I added an another stretch goal in my timeline. The str
     * Adding PCP icon to the docs.
     * wrapping the text of table cells.
     
-Code - [PR #1147](https://github.com/performancecopilot/pcp/pull/1147), [PR #1161](https://github.com/performancecopilot/pcp/pull/1161), [PR #1162](https://github.com/performancecopilot/pcp/pull/1162)
+Code - [PR #1147](https://github.com/performancecopilot/pcp/pull/1147), [PR #1161](https://github.com/performancecopilot/pcp/pull/1161), [PR #1162](https://github.com/performancecopilot/pcp/pull/1162)  
+Final Deliverable - [pmseries(1)](https://pcp.readthedocs.io/en/latest/UAG/TimeSeriesQuerying.html)
+
+### Post GSoD 2020
+
+During the GSoD period, I discussed with my mentor regarding the one stand-alone documentation for Google Summer of Code (GSoC) and Google Season of Docs (GSoD) for the organization. It will contain everything related to a year - Proposal format, Ideas, Successful applicants proposal and their final works, Stats, Mentor Details, etc. Everything at a single 'Stop'. He has given consent for the same. So, after the GSoD period, I'll start with this.
+
  
+### Additional Information and Resources
 
+1. Mentoring Organization - [Performance Co-Pilot](https://pcp.io/)
+2. Mentors - [Nathan Scott](https://github.com/natoscott), [Andreas Gerstmayr](https://github.com/andreasgerstmayr), [Peter Portante](https://github.com/portante)
+3. [Project](https://developers.google.com/season-of-docs/docs/participants/project-pcp-arzoo14)
+4. [Proposal](https://github.com/arzoo14/Google-Season-of-Docs-2020/blob/master/proposal.md)
+5. Github Repositories - [PCP](https://github.com/performancecopilot/pcp), [Pbench](https://github.com/distributed-system-analysis/pbench)
+6. [Merged PRs](https://github.com/performancecopilot/pcp/pulls?q=is%3Apr+author%3Aarzoo14+is%3Aclosed+is%3Amerged+), [Under Review PR](https://github.com/distributed-system-analysis/pbench/pull/1963)
+7. [Final Work Product](https://pcp.readthedocs.io/en/latest/)
 
+### EndNote
 
+With this, the Google Season of Docs has come to an end. These three months have been very exciting, challenging and fun. During these three months, I learnt a lot of new things like Swagger, OpenAPI, Redoc, etc. Also, now rst format, md format and git are on my tips. I will definitely write some blogs on the Swagger-Sphinx collaboration. I have felt an immense improvement in my skills and would love to keep working with the Performance Co-Pilot organization and maybe even try for Google Season of Docs next year too. 
 
+### Acknowledgements
 
+I would like to express my sincere gratitude to my mentors - Nathan Scott and Andreas Gerstmayr for their constant support and guidance. They were always around and had solutions to any issue that I faced. I have learnt a lot from them and expect to learn a lot more in the future.
 
-
+ I would also like to thank Peter Portante for his guidance on the pbench guides. I would continue with him on adding more content to the pbench guides. 
+ 
+  I am grateful to Google and Performance Co-Pilot organization for giving me this golden opportunity.  
