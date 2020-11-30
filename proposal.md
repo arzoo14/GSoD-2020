@@ -6,7 +6,7 @@
 
 **CONTACT INFORMATION**  
 Name: Arzoo  
-Github handle: arzoo14  
+Github handle: [arzoo14](https://github.com/arzoo14)  
 Email: arzoopprajapati11@gmail.com  
 Phone: +91-9971718061  
 Location: Noida, Uttar Pradesh, India (UTC+05:30)
@@ -66,13 +66,13 @@ In this proposal, I am using ‘Performance Co-Pilot Documentation’ as the nam
 ```
 
 ReadtheDocs uses Sphinx and reStructuredText (rst) as defaults. As Sphinx is pre-installed in my system, I will start with creating a directory inside the project (named as Performance Co-Pilot Documentation) to hold the docs:  
-```
+```console 
 $ cd /path/to/project  
 $ mkdir docs  
 ```
 
 After that, running `sphinx-quickstart` in there:  
-```
+```console
 $ cd docs  
 $ sphinx-quickstart  
 ```
@@ -89,7 +89,7 @@ The index.rst will be built into index.html in our documentation output director
 
 The conf.py file will be as follows: 
  
-```
+```python
 # -- Project information
 project = 'Performance Co-Pilot Documentation'
 copyright = '2020, Arzoo'
@@ -182,7 +182,7 @@ I have also configured webhooks in the code repository with the help of which, t
  
 Contributions to the Performance Co-Pilot Organization:  
  
-**Merged [PR #53]** : Improvements in documentation  
+**Merged - [PR #53](https://github.com/performancecopilot/grafana-pcp/pull/53)** : Improvements in documentation  
 
 ## TIMELINE
  
