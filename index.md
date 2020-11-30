@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+### Introduction
 
-You can use the [editor on GitHub](https://github.com/arzoo14/GSoD-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As GSoD 2020 has come to an end, this is my project report (final work product) wrapping up all the work done during this journey.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Performance Co-Pilot?
 
-### Markdown
+Performance Co-Pilot (PCP) provides a framework and services to support system-level performance monitoring and management. It presents a unifying abstraction for all of the performance data in a system, and many tools for interrogating, retrieving and processing that data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PCP is a feature-rich, mature, extensible, cross-platform toolkit supporting both live and retrospective analysis. The distributed PCP architecture makes it especially useful for those seeking centralized monitoring of distributed processing.
 
-```markdown
-Syntax highlighted code block
+### Project's Abstract
 
-# Header 1
-## Header 2
-### Header 3
+A community website plays an essential role in an open-source organization because it spreads the idea of offerings that the community provides, their precious contributions, their skills, their documentations, their tutorials, etc. So, my project will aim to increase the usability and easiness for all the open-source contributors by transferring and updating the book project areas content, i.e., docbook content, REST API documentation and pbench markdown content to reStructuredText format such that it can be hosted on the modern, community readthedocs.io site. This project will also benefit the community contributors by allowing them to change and extend this content more easily. As well as, as a stretch goal, the diagrams in the documentation will be improved to give them a more professional look.
 
-- Bulleted
-- List
+### GSoD 2020
 
-1. Numbered
-2. List
+As a part of GSoD 2020, my project had following deliverables:
+ 
+  1. Converting docbook content to reStructuredText format and hosting it on readthedocs site.
+  2. Converting REST API documentation from manpage to developer-friendly format, i.e., reStructuredText format and hosting it on readthedocs site.
+  3. Converting pbench MarkDown content to reStructuredText format and hosting it on readthedocs site.
+  4. Stretch goals would be to improve the diagrams present in the documentation.
+  5. After the first deliverable, an additional Stretch Goal is added - Addtion of **pmseries(1)** chapter in the PCP User's and Administrator's Guide book.
+  
+As a part of GSoD 2020, I completed all the deliverables on time. Details of my work are as follows:
 
-**Bold** and _Italic_ and `Code` text
+#### Deliverable 1
 
-[Link](url) and ![Image](src)
-```
+During this phase, I kickstarted with setting up the basic sphinx configuration for the PCP books documentation. After that, I started with the conversion of the PCP User's and Administrator's Guide (UAG) and Programmer's Guide (PG) books from docbook to reStructured Text (rst) format. On completion of both the books, I cross-referenced the headings to each other and hyperlinked the tags. In the end, after the removal of all the errors and the review from the mentors, they were hosted on modern, community readthedocs site.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+So, during Phase 1, I completed the following deliverables:  
 
-### Jekyll Themes
+  a. Converted PCP UAG book to rst format.  
+  b. Converted PCP PG book to rst format.  
+  c. Hosted both of them on readthedocs site.  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arzoo14/GSoD-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
