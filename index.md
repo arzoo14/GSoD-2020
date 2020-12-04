@@ -67,14 +67,15 @@ So, during Phase 2, I completed the following deliverables:
  
 #### Deliverable 3
 
-During this phase, I started with setting up the basic sphinx configuration for the Pbench guides. After that, I converted pbench guide from the MarkDown (md) format to rst format. In this phase, I learnt many new sphinx extensions. One of them being - sphinx-panels, which I used in this project to give dropdown card effect to the headings. 
- The code associated with this deliverable is still under review. The mentor has shown his satisfaction with the work and commented with 'Looks Good'. The readthedocs site needed the hosting of this documentation is already setup. Once, the PR will be merged, the documentation can be found [here](https://pbench.readthedocs.io/en/latest/). 
+During this phase, I started with setting up the basic sphinx configuration for the Pbench guide. After that, I converted Pbench guide from the MarkDown (md) format to rst format. In this phase, I learnt many new sphinx extensions. One of them being - sphinx-panels, which I used in this project to give dropdown card effect to the headings. 
  
- So, during Phase 3, I completed the following deliverable: 
+ So, during Phase 3, I completed the following deliverables: 
  
   * Converted Pbench guide from md to rst format. 
+  * Hosted Pbench guide on readthedocs site.
   
 Code - [PR #1963](https://github.com/distributed-system-analysis/pbench/pull/1963)
+Final Deliverable - [Pbench Guide](https://pbench.readthedocs.io/en/latest/)
 
 #### Deliverable 4
 
@@ -121,8 +122,8 @@ During the GSoD period, I discussed with my mentor regarding the one stand-alone
 3. [Project](https://developers.google.com/season-of-docs/docs/participants/project-pcp-arzoo14)
 4. [Proposal](https://github.com/arzoo14/Google-Season-of-Docs-2020/blob/master/proposal.md)
 5. Github Repositories - [PCP](https://github.com/performancecopilot/pcp), [Pbench](https://github.com/distributed-system-analysis/pbench)
-6. [Merged PRs](https://github.com/performancecopilot/pcp/pulls?q=is%3Apr+author%3Aarzoo14+is%3Aclosed+is%3Amerged+), [Under Review PR](https://github.com/distributed-system-analysis/pbench/pull/1963)
-7. [Final Work Product](https://pcp.readthedocs.io/en/latest/)
+6. Merged PRs - [PCP](https://github.com/performancecopilot/pcp/pulls?q=is%3Apr+author%3Aarzoo14+is%3Aclosed+is%3Amerged+), [Pbench](https://github.com/distributed-system-analysis/pbench/pull/1963)
+7. Final Work Product - [PCP](https://pcp.readthedocs.io/en/latest/), [Pbench](https://pbench.readthedocs.io/en/latest/)
 
 ### EndNote
 
