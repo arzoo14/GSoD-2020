@@ -66,11 +66,11 @@
 | Blogging of the last three weeks |
 | | | |
 | **_WEEK 8 (November 2 - November 8)_** |    |    |   |
-| Conversion of the pbench guides | :heavy_check_mark: | [#1963](https://github.com/distributed-system-analysis/pbench/pull/1963)| :warning: |
+| Conversion of the pbench guides | :heavy_check_mark: | [#1963](https://github.com/distributed-system-analysis/pbench/pull/1963)| **Merged** |
 | | | |
 | **_WEEK 9 (November 9 - November 15)_** |    |    |   |
-| Continued with the conversion of the pbench guides | :heavy_check_mark: | [#1963](https://github.com/distributed-system-analysis/pbench/pull/1963)| :warning: |
-| Hosting of the pbench guides | :construction: | 
+| Continued with the conversion of the pbench guides | :heavy_check_mark: | [#1963](https://github.com/distributed-system-analysis/pbench/pull/1963)| **Merged** |
+| Hosting of the pbench guides | :heavy_check_mark: | [Guide](https://pbench.readthedocs.io/en/latest/) | |
 | Blogging of the last two weeks |
 | | | |
 | **_WEEK 10 (November 16 - November 22)_** |    |    |   |
