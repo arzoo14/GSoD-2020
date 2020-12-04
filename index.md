@@ -67,14 +67,14 @@ So, during Phase 2, I completed the following deliverables:
  
 #### Deliverable 3
 
-During this phase, I started with setting up the basic sphinx configuration for the Pbench guide. After that, I converted Pbench guide from the MarkDown (md) format to rst format. In this phase, I learnt many new sphinx extensions. One of them being - sphinx-panels, which I used in this project to give dropdown card effect to the headings. 
+During this phase, I started with setting up the basic sphinx configuration for the Pbench guide. After that, I converted Pbench guide from the MarkDown (md) format to rst format. In this phase, I learnt many new sphinx extensions. One of them being - sphinx-panels, which I used in this project to give dropdown card effect to the headings. In the end, after the review from the mentor, they were hosted on modern, community readthedocs site.
  
  So, during Phase 3, I completed the following deliverables: 
  
-  * Converted Pbench guide from md to rst format. 
+  * Converted Pbench guide from md to rst format.  
   * Hosted Pbench guide on readthedocs site.
   
-Code - [PR #1963](https://github.com/distributed-system-analysis/pbench/pull/1963)
+Code - [PR #1963](https://github.com/distributed-system-analysis/pbench/pull/1963)  
 Final Deliverable - [Pbench Guide](https://pbench.readthedocs.io/en/latest/)
 
 #### Deliverable 4
