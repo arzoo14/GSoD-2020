@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Arzoo
 description: Technical Writer, Google Season of Docs 2020
-image: ../comboLogo.svg
+avatar: "comboLogo.svg"
+round-avatar: false
