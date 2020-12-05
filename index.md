@@ -124,6 +124,7 @@ During the GSoD period, I discussed with my mentor regarding the one stand-alone
 5. Github Repositories - [PCP](https://github.com/performancecopilot/pcp), [Pbench](https://github.com/distributed-system-analysis/pbench)
 6. Merged PRs - [PCP](https://github.com/performancecopilot/pcp/pulls?q=is%3Apr+author%3Aarzoo14+is%3Aclosed+is%3Amerged+), [Pbench](https://github.com/distributed-system-analysis/pbench/pull/1963)
 7. Final Work Product - [PCP](https://pcp.readthedocs.io/en/latest/), [Pbench](https://pbench.readthedocs.io/en/latest/)
+8. [Blogs](https://arzoo14.github.io/blogs/)
 
 ### EndNote
 
