@@ -35,7 +35,7 @@
 | **_WEEK 4 (October 5 - October 11)_** |    |    |   |
 | Hosting of PCP books | :heavy_check_mark: | [Books](https://pcp.readthedocs.io/en/latest/) | |
 | Landing page of the REST API documentation | :heavy_check_mark: | [#1117](https://github.com/performancecopilot/pcp/pull/1117) | **Merged** |
-| Blogging of the last four weeks | | |
+| Blogging of the last four weeks | :heavy_check_mark: | [Blog](https://arzoo14.github.io/gsod-2020-week-1-to-week-4/) |
 | | | |
 | **_WEEK 5 (October 12 - October 18)_** |    |    |   |
 | Conversion of Scalable Time Series index | :heavy_check_mark: | [#1117](https://github.com/performancecopilot/pcp/pull/1117) | **Merged** |
@@ -63,7 +63,7 @@
 | **_WEEK 7 (October 26 - November 1)_** |    |    |   |
 | Leftovers (if any) is covered | None | | |
 | Hosting of REST API documentation | :heavy_check_mark: | [API](https://pcp.readthedocs.io/en/latest/api/) | |
-| Blogging of the last three weeks |
+| Blogging of the last three weeks | :heavy_check_mark: | [Blog](https://arzoo14.github.io/gsod-2020-week-5-to-week-7/)
 | | | |
 | **_WEEK 8 (November 2 - November 8)_** |    |    |   |
 | Conversion of the pbench guides | :heavy_check_mark: | [#1963](https://github.com/distributed-system-analysis/pbench/pull/1963)| **Merged** |
@@ -71,7 +71,7 @@
 | **_WEEK 9 (November 9 - November 15)_** |    |    |   |
 | Continued with the conversion of the pbench guides | :heavy_check_mark: | [#1963](https://github.com/distributed-system-analysis/pbench/pull/1963)| **Merged** |
 | Hosting of the pbench guides | :heavy_check_mark: | [Guide](https://pbench.readthedocs.io/en/latest/) | |
-| Blogging of the last two weeks |
+| Blogging of the last two weeks | :heavy_check_mark: | [Blog](https://arzoo14.github.io/gsod-2020-week-8-to-week-9/)
 | | | |
 | **_WEEK 10 (November 16 - November 22)_** |    |    |   |
 | Implementation of the search functionality | :heavy_check_mark: | | |
@@ -82,10 +82,10 @@
 | Improvement of all the diagrams | :heavy_check_mark: | [#1154](https://github.com/performancecopilot/pcp/pull/1154) | **Merged** |
 | **Additional Stretch Goal** - Adds a new chapter 'pmseries(1)' in the UAG book| :heavy_check_mark: | [#1161](https://github.com/performancecopilot/pcp/pull/1161) | **Merged** |
 | Checking (changing) of the codebase as per coding standards | :heavy_check_mark: | [#1147](https://github.com/performancecopilot/pcp/pull/1147) , [#1162](https://github.com/performancecopilot/pcp/pull/1162) | **Merged** |
-| Final blogging of the last two weeks |
+| Final blogging of the last two weeks | :heavy_check_mark: | [Blog](https://arzoo14.github.io/gsod-2020-week-10-to-week-11/)
 | | | |
 | **_WEEK 12 (November 30 - December 5)_** |    |    |   |
-| The final submission |
-| Submission of the project reports (final work products) |
-| Submission of the evaluations |
+| The final submission | :heavy_check_mark: | [Final Report](https://arzoo14.github.io/Google-Season-of-Docs-2020/), [Blog](https://arzoo14.github.io/wrapping-up-gsod-2020/)|
+| Submission of the project reports (final work products) | :heavy_check_mark: |
+| Submission of the evaluations | :heavy_check_mark: |
 
